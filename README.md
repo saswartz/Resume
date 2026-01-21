@@ -1,5 +1,4 @@
-# Resume
-Experience, skills, and projects
+# Experience, Skills, and Projects
 
 | Experience | Description |
 | --- | --- |
