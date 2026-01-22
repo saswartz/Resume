@@ -8,5 +8,6 @@
 | `Microsoft` `Office` | I am proficient with Word, Excel, Outlook. |
 | `Python` | Python for IT Google Professional Certificate |
 | `Matlab` | I was taught to use Matlab in a Introduction to Computational Fluid Dynamics course at WPI. I evaluated heat transfer through the Earth to solved for the planet's age. |
+| `GDScript` | Scripting language in Godot Engine that is based on C# |
+| `Godot Engine` | A free, open-source game engine used to create video games, cross-platform apps, and interactive software with built-in scripting language called GDScript. |
 | `Git` <br> `Github` | --- |
-| `Godot Engine` | A free, open-source game engine used to create video games, cross-platform apps, and interactive software with built-in scripting language called GDScript based on C# |
